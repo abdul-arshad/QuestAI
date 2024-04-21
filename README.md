@@ -1,6 +1,4 @@
-# Simple Flutter - Flask App
+# QuestAI - Question Bank Generator
 
-This application is created to show the PoC of integrating Flutter with Flask as Backend. 
-An API in python works as the script.
-
-This app fetches you the ASCII Value of a specific character.
+A personalized question bank and question paper generator that uses generative AI to generate questions of required format and difficulty.
+This project uses an openAI API to generate questions based on the given input. The difficulty of the questions and relevance of the answers can be tweaked as per the user wishes. 
